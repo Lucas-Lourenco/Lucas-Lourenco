@@ -1,8 +1,9 @@
 ## Bem-vindo(a) ao perfil do Lucas-Lourenco 😁
 
 <div>
-   <a href="https://github.com/Lucas-Lourenco">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Lourenco&layout=compact&langs_count=6&theme=tokyonight"/>
+ <a href="https://github.com/Lucas-Lourenco">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Lourenco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Lourenco&layout=compact&langs_count=6&theme=tokyonight"/></a>
 </div>
  
     
