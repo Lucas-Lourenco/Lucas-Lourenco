@@ -2,12 +2,15 @@
 
 <div align="center">
   <a href="https://github.com/Lucas-Lourenco">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Lucas-Lourenco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180" src="https://github-readme-stats-rickstaa.vercel.app/api?username=Lucas-Lourenco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
+  
   <a href="https://github.com/Lucas-Lourenco">
-    <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Lourenco&layout=compact&langs_count=6&theme=tokyonight"/>
+    <img height="180" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=Lucas-Lourenco&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
 </div>
+
+<br>
 
 <div align="center">
   <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
